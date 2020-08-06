@@ -16,6 +16,8 @@ Spark Aliance QD
 Accesst Managet. 
 
 ETL framework  
+
+Spark - SQL Data frames. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0ODY1OTEsLTM0MjIwNDk0MV19
+eyJoaXN0b3J5IjpbMjQwMjcxNjAzLC0zNDIyMDQ5NDFdfQ==
 -->
